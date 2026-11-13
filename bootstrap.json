@@ -1,6 +1,6 @@
 {
-  "server_url_enc": "HC+J7cilaFQSw4xhXndx1J3Ed5turJmgGnjlbqCs/0fHHqpQDEsMCjE6hHbIpF3Qcg==",
-  "public_key": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAQMoOjSLpkUzVnLFRB/UlZ6+UR3Hpvb98pS1d9DviUy4=\n-----END PUBLIC KEY-----\n",
-  "issued_at": "2026-11-12T13:28:29.248646+00:00",
-  "signature": "dHqdoKmfVGgj2cqipiujHMXa/fJrI799OpGf50Q575abfmCMEvBkyAzTplgDuIxWsj4NtNoKevuIYaRy6+K3Bg=="
+  "server_url_enc": "8AXtxZcVXo7A0cET4QTgb3y3G0F/a2DIy2h5xRWdhDe3qfMf8K0BCeAK27aetgQbM2Nun4lWKmzC",
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAEcaSgqOaq13BF0TJE+2YyUh/zsLVL4gT69940g1DN5A=\n-----END PUBLIC KEY-----\n",
+  "issued_at": "2026-11-13T11:59:48.144034+00:00",
+  "signature": "11ksytN8w5wCtHkFWHO7WUlRP8rC2zYpKaw2hnba5RJBbpswQJMjN5gGrwmT7So3VDDp8GU2B1jCdI1OKZlAAA=="
 }
